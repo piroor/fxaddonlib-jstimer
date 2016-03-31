@@ -1,5 +1,7 @@
 # JavaScript Timer Library
 
+**important note**: this project is completely deprecated by [Timer.jsm](https://developer.mozilla.org/docs/Mozilla/JavaScript_code_modules/Timer.jsm). Use it instead of this.
+
 ## Usage
 
     var namespace = {};
